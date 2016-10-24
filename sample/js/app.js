@@ -12,6 +12,7 @@
         self.showForm = false; // Whether to show/hide the update/create form
         
         // Load the list of users for the left hand menu
+
         self.loadList = function(){
             console.log("Loading list data from API");
 
